@@ -5,7 +5,22 @@
 
 - 📫 How to reach me **mirotweets@gmail.com**
 
-- 📄 Know about my experiences [I develop web, mobile, and desktop applications using React, React Native, PHP, C#, VB.NET, SQL, and MongoDB. ### What I work on - Full Stack Web Applications - Mobile Apps with React Native & Expo - REST API Development - Authentication & Authorization Systems - Database Design & Optimization - Desktop Applications (.NET) - Cybersecurity Research & Reverse Engineering ### Technologies C# • VB.NET • PHP • JavaScript • React • React Native • SQL • MySQL • MongoDB • REST APIs • .NET Always learning, building, and improving.](I develop web, mobile, and desktop applications using React, React Native, PHP, C#, VB.NET, SQL, and MongoDB. ### What I work on - Full Stack Web Applications - Mobile Apps with React Native & Expo - REST API Development - Authentication & Authorization Systems - Database Design & Optimization - Desktop Applications (.NET) - Cybersecurity Research & Reverse Engineering ### Technologies C# • VB.NET • PHP • JavaScript • React • React Native • SQL • MySQL • MongoDB • REST APIs • .NET Always learning, building, and improving.)
+- 📄 Know about my experiences
+- I develop web, mobile, and desktop applications using React, React Native, PHP, C#, VB.NET, SQL, and MongoDB.
+
+### What I work on
+- Full Stack Web Applications
+- Mobile Apps with React Native & Expo
+- REST API Development
+- Authentication & Authorization Systems
+- Database Design & Optimization
+- Desktop Applications (.NET)
+- Cybersecurity Research & Reverse Engineering
+
+### Technologies
+C# • VB.NET • PHP • JavaScript • React • React Native • SQL • MySQL • MongoDB • REST APIs • .NET
+
+Always learning, building, and improving.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
